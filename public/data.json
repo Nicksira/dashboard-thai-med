@@ -1,0 +1,400 @@
+{
+  "overview": {
+    "total_points": 328529,
+    "total_amount": 328529
+  },
+  "services": [
+    {
+      "name": "พอกเข่า",
+      "points": 152400,
+      "amount": 152400
+    },
+    {
+      "name": "นวด",
+      "points": 117800,
+      "amount": 117800
+    },
+    {
+      "name": "นวด+ประคบ",
+      "points": 47000,
+      "amount": 47000
+    },
+    {
+      "name": "ยาสมุนไพร 55 รายการ",
+      "points": 4809,
+      "amount": 4809
+    },
+    {
+      "name": "อบสมุนไพร",
+      "points": 3120,
+      "amount": 3120
+    },
+    {
+      "name": "ประคบ",
+      "points": 2400,
+      "amount": 2400
+    },
+    {
+      "name": "การฟื้นฟูมารดาหลังคลอด",
+      "points": 1000,
+      "amount": 1000
+    }
+  ],
+  "hospitals": [
+    {
+      "name": "รพ.สต.คลองน้ำใส",
+      "points": 81660,
+      "amount": 81660,
+      "services": [
+        {
+          "name": "นวด",
+          "points": 28800,
+          "amount": 28800
+        },
+        {
+          "name": "พอกเข่า",
+          "points": 27900,
+          "amount": 27900
+        },
+        {
+          "name": "นวด+ประคบ",
+          "points": 22500,
+          "amount": 22500
+        },
+        {
+          "name": "ประคบ",
+          "points": 2100,
+          "amount": 2100
+        },
+        {
+          "name": "อบสมุนไพร",
+          "points": 360,
+          "amount": 360
+        }
+      ]
+    },
+    {
+      "name": "รพ.สต.ท่าข้าม",
+      "points": 80343,
+      "amount": 80343,
+      "services": [
+        {
+          "name": "พอกเข่า",
+          "points": 48000,
+          "amount": 48000
+        },
+        {
+          "name": "นวด",
+          "points": 32000,
+          "amount": 32000
+        },
+        {
+          "name": "นวด+ประคบ",
+          "points": 250,
+          "amount": 250
+        },
+        {
+          "name": "ยาสมุนไพร 55 รายการ",
+          "points": 93,
+          "amount": 93
+        }
+      ]
+    },
+    {
+      "name": "รพ.สต.ป่าไร่",
+      "points": 39727,
+      "amount": 39727,
+      "services": [
+        {
+          "name": "พอกเข่า",
+          "points": 19500,
+          "amount": 19500
+        },
+        {
+          "name": "นวด",
+          "points": 15600,
+          "amount": 15600
+        },
+        {
+          "name": "นวด+ประคบ",
+          "points": 1500,
+          "amount": 1500
+        },
+        {
+          "name": "อบสมุนไพร",
+          "points": 1320,
+          "amount": 1320
+        },
+        {
+          "name": "การฟื้นฟูมารดาหลังคลอด",
+          "points": 1000,
+          "amount": 1000
+        },
+        {
+          "name": "ยาสมุนไพร 55 รายการ",
+          "points": 657,
+          "amount": 657
+        },
+        {
+          "name": "ประคบ",
+          "points": 150,
+          "amount": 150
+        }
+      ]
+    },
+    {
+      "name": "รพ.สต.ทับพริก",
+      "points": 31651,
+      "amount": 31651,
+      "services": [
+        {
+          "name": "พอกเข่า",
+          "points": 18300,
+          "amount": 18300
+        },
+        {
+          "name": "นวด",
+          "points": 12200,
+          "amount": 12200
+        },
+        {
+          "name": "ยาสมุนไพร 55 รายการ",
+          "points": 651,
+          "amount": 651
+        },
+        {
+          "name": "นวด+ประคบ",
+          "points": 500,
+          "amount": 500
+        }
+      ]
+    },
+    {
+      "name": "รพ.สต.ภูน้ำเกลี้ยง",
+      "points": 31500,
+      "amount": 31500,
+      "services": [
+        {
+          "name": "นวด+ประคบ",
+          "points": 12000,
+          "amount": 12000
+        },
+        {
+          "name": "พอกเข่า",
+          "points": 11700,
+          "amount": 11700
+        },
+        {
+          "name": "นวด",
+          "points": 7800,
+          "amount": 7800
+        }
+      ]
+    },
+    {
+      "name": "รพ.สต.บ้านใหม่หนองไทร",
+      "points": 21593,
+      "amount": 21593,
+      "services": [
+        {
+          "name": "พอกเข่า",
+          "points": 11700,
+          "amount": 11700
+        },
+        {
+          "name": "นวด",
+          "points": 7800,
+          "amount": 7800
+        },
+        {
+          "name": "นวด+ประคบ",
+          "points": 2000,
+          "amount": 2000
+        },
+        {
+          "name": "ยาสมุนไพร 55 รายการ",
+          "points": 93,
+          "amount": 93
+        }
+      ]
+    },
+    {
+      "name": "รพ.สต.ฟากห้วย",
+      "points": 15560,
+      "amount": 15560,
+      "services": [
+        {
+          "name": "พอกเข่า",
+          "points": 6600,
+          "amount": 6600
+        },
+        {
+          "name": "นวด",
+          "points": 4400,
+          "amount": 4400
+        },
+        {
+          "name": "นวด+ประคบ",
+          "points": 3000,
+          "amount": 3000
+        },
+        {
+          "name": "ยาสมุนไพร 55 รายการ",
+          "points": 930,
+          "amount": 930
+        },
+        {
+          "name": "อบสมุนไพร",
+          "points": 480,
+          "amount": 480
+        },
+        {
+          "name": "ประคบ",
+          "points": 150,
+          "amount": 150
+        }
+      ]
+    },
+    {
+      "name": "รพ.สต.บ้านโรงเรียน",
+      "points": 10343,
+      "amount": 10343,
+      "services": [
+        {
+          "name": "พอกเข่า",
+          "points": 6000,
+          "amount": 6000
+        },
+        {
+          "name": "นวด",
+          "points": 4000,
+          "amount": 4000
+        },
+        {
+          "name": "นวด+ประคบ",
+          "points": 250,
+          "amount": 250
+        },
+        {
+          "name": "ยาสมุนไพร 55 รายการ",
+          "points": 93,
+          "amount": 93
+        }
+      ]
+    },
+    {
+      "name": "รพ.สต.นิคมสร้างตนเองคลองน้ำใส",
+      "points": 6710,
+      "amount": 6710,
+      "services": [
+        {
+          "name": "นวด",
+          "points": 4000,
+          "amount": 4000
+        },
+        {
+          "name": "นวด+ประคบ",
+          "points": 1750,
+          "amount": 1750
+        },
+        {
+          "name": "อบสมุนไพร",
+          "points": 960,
+          "amount": 960
+        }
+      ]
+    },
+    {
+      "name": "รพ.สต.เมืองไผ่",
+      "points": 5027,
+      "amount": 5027,
+      "services": [
+        {
+          "name": "ยาสมุนไพร 55 รายการ",
+          "points": 1827,
+          "amount": 1827
+        },
+        {
+          "name": "พอกเข่า",
+          "points": 1500,
+          "amount": 1500
+        },
+        {
+          "name": "นวด",
+          "points": 1200,
+          "amount": 1200
+        },
+        {
+          "name": "นวด+ประคบ",
+          "points": 500,
+          "amount": 500
+        }
+      ]
+    },
+    {
+      "name": "รพ.สต.คลองหว้า",
+      "points": 3950,
+      "amount": 3950,
+      "services": [
+        {
+          "name": "นวด+ประคบ",
+          "points": 2750,
+          "amount": 2750
+        },
+        {
+          "name": "พอกเข่า",
+          "points": 1200,
+          "amount": 1200
+        }
+      ]
+    },
+    {
+      "name": "รพ.สต.หนองปรือ",
+      "points": 186,
+      "amount": 186,
+      "services": [
+        {
+          "name": "ยาสมุนไพร 55 รายการ",
+          "points": 186,
+          "amount": 186
+        }
+      ]
+    },
+    {
+      "name": "รพ.สต.หันทราย",
+      "points": 186,
+      "amount": 186,
+      "services": [
+        {
+          "name": "ยาสมุนไพร 55 รายการ",
+          "points": 186,
+          "amount": 186
+        }
+      ]
+    },
+    {
+      "name": "รพ.สต.คลองทับจันทร์",
+      "points": 93,
+      "amount": 93,
+      "services": [
+        {
+          "name": "ยาสมุนไพร 55 รายการ",
+          "points": 93,
+          "amount": 93
+        }
+      ]
+    },
+    {
+      "name": "รพ.สต. ผ่านศึก",
+      "points": 0,
+      "amount": 0,
+      "services": []
+    },
+    {
+      "name": "รพ.สต. หนองสังข์",
+      "points": 0,
+      "amount": 0,
+      "services": []
+    }
+  ]
+}

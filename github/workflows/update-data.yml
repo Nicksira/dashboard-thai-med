@@ -1,0 +1,28 @@
+name: Update Data
+on:
+  schedule:
+    - cron: '0 8 * * *' # ตั้งเวลาให้ดึงข้อมูลทุกวัน เวลา 08:00 น.
+  workflow_dispatch: # ให้กดสั่งให้ดึงข้อมูลเองได้ด้วย
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v3
+      - name: Setup Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: '20'
+      - name: Run Data Script
+        run: |
+          # ตรงนี้คือคำสั่งที่คุณใช้รันสคริปต์ดึงข้อมูลของคุณ
+          node scripts/fetch-data.js 
+      - name: Commit and Push
+        run: |
+          git config user.name "GitHub Actions"
+          git config user.email "actions@github.com"
+          git add public/data.json
+          git commit -m "Auto-update data.json"
+          git push
