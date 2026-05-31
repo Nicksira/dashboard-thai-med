@@ -1,0 +1,236 @@
+[
+  {
+    "field": "htype",
+    "sheet": "s3-proced-chart-rg-bath",
+    "values": [
+      "อื่น ๆ (หน่วยรับส่งต่อเฉพาะด้าน ฯ)",
+      "รพสต.",
+      "หน่วยบริการประจำ"
+    ]
+  },
+  {
+    "field": "F Year",
+    "sheet": "s3-proced-chart-rg-bath",
+    "values": [
+      "2569"
+    ]
+  },
+  {
+    "field": "htype",
+    "sheet": "s3-proced-chart-rg-point",
+    "values": [
+      "อื่น ๆ (หน่วยรับส่งต่อเฉพาะด้าน ฯ)",
+      "รพสต.",
+      "หน่วยบริการประจำ"
+    ]
+  },
+  {
+    "field": "F Year",
+    "sheet": "s3-proced-chart-rg-point",
+    "values": [
+      "2569"
+    ]
+  },
+  {
+    "field": "htype",
+    "sheet": "s3-proced-chart-prov-point",
+    "values": [
+      "อื่น ๆ (หน่วยรับส่งต่อเฉพาะด้าน ฯ)",
+      "รพสต.",
+      "หน่วยบริการประจำ"
+    ]
+  },
+  {
+    "field": "F Year",
+    "sheet": "s3-proced-chart-prov-point",
+    "values": [
+      "2569"
+    ]
+  },
+  {
+    "field": "nhso_zonename",
+    "sheet": "s3-proced-chart-prov-point",
+    "values": [
+      "เขต 2 พิษณุโลก"
+    ]
+  },
+  {
+    "field": "htype",
+    "sheet": "s3-proced-chart-prov-bath",
+    "values": [
+      "อื่น ๆ (หน่วยรับส่งต่อเฉพาะด้าน ฯ)",
+      "รพสต.",
+      "หน่วยบริการประจำ"
+    ]
+  },
+  {
+    "field": "F Year",
+    "sheet": "s3-proced-chart-prov-bath",
+    "values": [
+      "2569"
+    ]
+  },
+  {
+    "field": "nhso_zonename",
+    "sheet": "s3-proced-chart-prov-bath",
+    "values": [
+      "เขต 2 พิษณุโลก"
+    ]
+  },
+  {
+    "field": "F Year",
+    "sheet": "s3-proced-chart-hcode-point",
+    "values": [
+      "2569"
+    ]
+  },
+  {
+    "field": "nhso_zonename",
+    "sheet": "s3-proced-chart-hcode-point",
+    "values": [
+      "เขต 6 ระยอง"
+    ]
+  },
+  {
+    "field": "Province Name",
+    "sheet": "s3-proced-chart-hcode-point",
+    "values": [
+      "สระแก้ว"
+    ]
+  },
+  {
+    "field": "F Year",
+    "sheet": "s3-proced-chart-hcode-bath",
+    "values": [
+      "2569"
+    ]
+  },
+  {
+    "field": "nhso_zonename",
+    "sheet": "s3-proced-chart-hcode-bath",
+    "values": [
+      "เขต 6 ระยอง"
+    ]
+  },
+  {
+    "field": "Province Name",
+    "sheet": "s3-proced-chart-hcode-bath",
+    "values": [
+      "สระแก้ว"
+    ]
+  },
+  {
+    "field": "F Year",
+    "sheet": "s3-proced-compare-point",
+    "values": [
+      "2569"
+    ]
+  },
+  {
+    "field": "nhso_zonename",
+    "sheet": "s3-proced-compare-point",
+    "values": [
+      "เขต 6 ระยอง"
+    ]
+  },
+  {
+    "field": "Province Name",
+    "sheet": "s3-proced-compare-point",
+    "values": [
+      "สระแก้ว"
+    ]
+  },
+  {
+    "field": "F Year",
+    "sheet": "s3-proced-compare-bath",
+    "values": [
+      "2569"
+    ]
+  },
+  {
+    "field": "nhso_zonename",
+    "sheet": "s3-proced-compare-bath",
+    "values": [
+      "เขต 6 ระยอง"
+    ]
+  },
+  {
+    "field": "Province Name",
+    "sheet": "s3-proced-compare-bath",
+    "values": [
+      "สระแก้ว"
+    ]
+  },
+  {
+    "field": "Amphur Name",
+    "sheet": "s3-proced-chart-amp-point",
+    "values": [
+      "เมืองพิษณุโลก",
+      "เนินมะปราง",
+      "วังทอง",
+      "นครไทย",
+      "วัดโบสถ์",
+      "ชาติตระการ",
+      "บางกระทุ่ม",
+      "บางระกำ",
+      "พรหมพิราม"
+    ]
+  },
+  {
+    "field": "F Year",
+    "sheet": "s3-proced-chart-amp-point",
+    "values": [
+      "2569"
+    ]
+  },
+  {
+    "field": "nhso_zonename",
+    "sheet": "s3-proced-chart-amp-point",
+    "values": [
+      "เขต 2 พิษณุโลก"
+    ]
+  },
+  {
+    "field": "Province Name",
+    "sheet": "s3-proced-chart-amp-point",
+    "values": [
+      "พิษณุโลก"
+    ]
+  },
+  {
+    "field": "Amphur Name",
+    "sheet": "s3-proced-chart-amp-bath",
+    "values": [
+      "เมืองพิษณุโลก",
+      "เนินมะปราง",
+      "วังทอง",
+      "นครไทย",
+      "วัดโบสถ์",
+      "ชาติตระการ",
+      "บางกระทุ่ม",
+      "บางระกำ",
+      "พรหมพิราม"
+    ]
+  },
+  {
+    "field": "F Year",
+    "sheet": "s3-proced-chart-amp-bath",
+    "values": [
+      "2569"
+    ]
+  },
+  {
+    "field": "nhso_zonename",
+    "sheet": "s3-proced-chart-amp-bath",
+    "values": [
+      "เขต 2 พิษณุโลก"
+    ]
+  },
+  {
+    "field": "Province Name",
+    "sheet": "s3-proced-chart-amp-bath",
+    "values": [
+      "พิษณุโลก"
+    ]
+  }
+]
